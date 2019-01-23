@@ -2,4 +2,5 @@
 # Dependency files
 *.pyc
 *.txt
-.env*
+.env-production
+.env-sandbox
