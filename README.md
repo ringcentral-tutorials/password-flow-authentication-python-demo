@@ -46,7 +46,7 @@ Set `ENVIRONMENT=production` in the `.env` file to run in the production environ
 
 Authenticate and call RingCentral APIs using the RingCentral Python SDK.
 ```
-$ php demo.php
+$ python demo.py
 ```
 
 ### RingCentral Developer Portal
