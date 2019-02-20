@@ -1,5 +1,5 @@
 {
-    "title": "RingCentral Platform Authentication - Password Flow OAuth",
+    "title": "RingCentral Password Flow Authentication OAuth - Python",
     "repo": "https://github.com/ringcentral-tutorials/password-flow-authentication-python-demo",
     "description": "In this step-by-step tutorial, you are going to learn how to authenticate RingCentral platform using password flow in Python programming language. Click the \"Start\" button below to start the tutorial.",
     "heroku": false
